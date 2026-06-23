@@ -4,7 +4,23 @@ A graphing calculator that receives a function and displays its graph, as well a
 
 ![screenshot](img/screenshot.png)
 
-## How run
+## Prerequisites
+Arch Linux
+```bash
+sudo pacman -S raylib
+```
+Debian/Ubuntu-based systems
+```bash
+sudo apt install libraylib-dev
+```
+
+macOS (via Homebrew)
+```
+brew install raylib
+```
+
+
+## How Build and Run
 
 ```bash
 git clone https://github.com/Senka07/math_visualizer.git && cd math_visualizer
