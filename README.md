@@ -33,6 +33,10 @@ make
 ./grafico
 ```
 
+## Build Details
+
+The Makefile is configured to handle the linking process automatically. If you encounter issues, verify that your system's library path includes the directory where raylib is installed
+
 ## License
 
 GPL-3.0
