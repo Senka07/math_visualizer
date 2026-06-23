@@ -19,6 +19,11 @@ macOS (via Homebrew)
 brew install raylib
 ```
 
+Requirements
+
+    Compiler: A C99-compliant compiler (e.g., gcc, clang).
+
+    Build Tool: make
 
 ## How Build and Run
 
